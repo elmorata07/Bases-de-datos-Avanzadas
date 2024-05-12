@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "61d74c9833c9f0547630c561"
+  },
+  "Nombres": "Gohan",
+  "Apellidos": "Gordillo Mesa",
+  "Edad": 35,
+  "Cedula": 33465,
+  "Celular": 323349,
+  "Equipo": "Ezequiel Hurtado",
+  "Nacionalidad": "Colombiano"
+},{
+  "_id": {
+    "$oid": "61d74ced33c9f0547630c562"
+  },
+  "Nombres": "William",
+  "Apellidos": "Ruiz",
+  "Edad": 41,
+  "Cedula": 8000,
+  "Celular": 72209,
+  "Equipo": "Perpetuo Socorro",
+  "Nacionalidad": "Chileno"
+}]

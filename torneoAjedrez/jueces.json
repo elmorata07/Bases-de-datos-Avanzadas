@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "61d71e0d33c9f0547630c55a"
+  },
+  "Nombres": "Ricardo Jorge ",
+  "Apellidos": "suarez perez ",
+  "Edad": 46,
+  "Cedula": 123,
+  "Celular": 321,
+  "Nacionalidad": "Colombiano"
+},{
+  "_id": {
+    "$oid": "61d71ed833c9f0547630c55b"
+  },
+  "Nombres": "Juanito",
+  "Apellidos": "Morales paja",
+  "Edad": 23,
+  "Cedula": 905,
+  "Celular": 499,
+  "Nacionalidad": "Uruguayo"
+},{
+  "_id": {
+    "$oid": "61d783c2f5563ceee5822cf9"
+  },
+  "Nombres": "Miguel Angel",
+  "Apellidos": " Cruz verde",
+  "Edad": 30,
+  "Cedula": 567,
+  "Celular": 3002,
+  "Nacionalidad": "Boliviano"
+},{
+  "_id": {
+    "$oid": "61d783e7f5563ceee5822cfa"
+  },
+  "Nombres": "Luis Sinisterra",
+  "Apellidos": "Toro Milanes",
+  "Edad": 34,
+  "Cedula": 102050,
+  "Celular": 2230,
+  "Nacionalidad": "Colombiano"
+}]

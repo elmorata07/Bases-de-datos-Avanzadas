@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "61d725fb33c9f0547630c55f"
+  },
+  "Fecha": "20/05/2024",
+  "Hora": "10:00 am",
+  "Lugar": "pasillo A",
+  "Equipo Local": "Ezequiel Hurtado",
+  "Equipo Visitante": "Perpetuo Socorro",
+  "Estado": "Jugado",
+  "Resultado Final": "Victoria Local",
+  "Arbitros": [
+    " Juanito Morales paja",
+    "Ricardo Jorge suarez perez"
+  ]
+},{
+  "_id": {
+    "$oid": "61d729a133c9f0547630c560"
+  },
+  "Fecha": "21/06/2024",
+  "Hora": "10:00 sm",
+  "Lugar": "Sala Deportiva del Metropolitano",
+  "Equipo Local": "bero",
+  "Equipo Visitante": "Instituto Agricola",
+  "Estado": "Jugado",
+  "Resultado Final": "Empate",
+  "Arbitros": [
+    "Juanito Morales paja",
+    "Ricardo Jorge suarez perez"
+  ]
+}]

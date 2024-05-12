@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "61d7214433c9f0547630c55c"
+  },
+  "Nombres": "Adalberto",
+  "Apellidos": "Morales Morales",
+  "Edad": 28,
+  "Cedula": 100077005,
+  "Celular": 3112199972,
+  "Equipo": "Ibero",
+  "Ranking": 7.9,
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Cauca"
+},{
+  "_id": {
+    "$oid": "61d721be33c9f0547630c55d"
+  },
+  "Nombres": "Camilo Alejandro",
+  "Apellidos": "contreras Leal",
+  "Edad": 25,
+  "Cedula": 1001,
+  "Celular": 320,
+  "Equipo": "Ezequiel Hurtado",
+  "Ranking": 8.3,
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Manizales"
+},{
+  "_id": {
+    "$oid": "61d7846df5563ceee5822cfb"
+  },
+  "Nombres": "Jhon",
+  "Apellidos": "Morales Morales",
+  "Edad": 22,
+  "Cedula": 254555,
+  "Celular": 300,
+  "Equipo": "Instituto Agricola",
+  "Ranking": 7.6,
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Bogotá"
+},{
+  "_id": {
+    "$oid": "61d7847df5563ceee5822cfc"
+  },
+  "Nombres": "Adriana",
+  "Apellidos": "Ramirez Perez",
+  "Edad": 20,
+  "Cedula": 647899,
+  "Celular": 564881,
+  "Equipo": "Perpetuo Socorro",
+  "Ranking": 8,
+  "Nacionalidad": "Chileno",
+  "Ciudad": "Cartagena"
+},{
+  "_id": {
+    "$oid": "61d7859ff5563ceee5822cfe"
+  },
+  "Nombres": "El Brayan",
+  "Apellidos": " Niño Malo",
+  "Edad": 18,
+  "Cedula": 1044,
+  "Celular": 38889,
+  "Equipo": "Oasis",
+  "Ranking": 8.1,
+  "Nacionalidad": "Colombiano",
+  "Ciudad": "Nariño"
+}]
